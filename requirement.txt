@@ -1,0 +1,14 @@
+torch==2.0.1+cpu
+torchaudio==2.0.2+cpu
+torchvision==0.15.2+cpu
+cvlib==0.2.7
+cvzone==1.5.6
+numpy==1.22.3
+opencv-python==4.6.0.66
+pandas==2.0.1
+pyFirmata==1.1.0
+pyserial==3.5
+scipy==1.10.1
+sentry-sdk==1.22.2
+sympy==1.11.1
+ultralytics==8.0.98
